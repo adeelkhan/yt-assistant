@@ -1,0 +1,7 @@
+"yt-dlv"
+"langchain"
+"langchain-community"
+"langgraph"
+"langgraph-sdk"
+"youtube-search==2.1.2"
+"youtube-transcript-api==1.2.3"
