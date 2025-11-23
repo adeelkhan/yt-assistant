@@ -1,6 +1,6 @@
 # 🎬 YouTube Agent
 
-A computer science assistant that helps one get good suggested videos YouTube videos on any topic
+A computer science assistant that suggests good videos on YouTube on any topic
 
 ---
 
